@@ -1,0 +1,15 @@
+<div class="parameter-list">
+                        <div class="parameter">
+                            <div class="parameter-label">Total Yield</div>
+                            <div class="parameter-value">${total_yield} kg</div>
+                        </div>
+
+                        <div class="parameter">
+                            <div class="parameter-label">Yield per Hectare</div>
+                            <div class="parameter-value">${yield_per_hectare} kg/ha</div>
+                        </div>
+
+                        why pkl ?
+                        - because speed isnt critical concern 
+                        to this model, the effeciency and lighweight 
+                        of the pkl is  a perfect choice on saving this model.
